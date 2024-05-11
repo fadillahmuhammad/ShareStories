@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Share Stories Apps</string>
+    <string name="signup">Daftar</string>
+    <string name="login">Masuk</string>
+    <string name="message_welcome_page">Bagikan momen seru, bahagia, romantis bersama teman, keluarga, atau pasangan dengan cepat di telapak tangan Anda!</string>
+    <string name="title_welcome_page">Selamat datang Sharers!</string>
+    <string name="title_signup_page">Lengkapi data dirimu di bawah ini ya</string>
+    <string name="email">Alamat Email</string>
+    <string name="password">Kata Sandi</string>
+    <string name="message_login_page">Masukkan dulu datamu ya</string>
+    <string name="title_login_page">Sudah siap untuk upgrade skill?</string>
+    <string name="name">Nama</string>
+    <string name="message_main_page">selamat membagikan cerita!</string>
+    <string name="greeting">Halo %1$s,</string>
+    <string name="logout">Keluar</string>
+    <string name="logoutBtn">Keluar</string>
+    <string name="username_user">Username Pengguna</string>
+    <string name="description">Deskripsi</string>
+    <string name="date">tanggal</string>
+    <string name="add_story">Tambah Cerita</string>
+    <string name="posted_on">Diposting pada:</string>
+    <string name="camera">Kamera</string>
+    <string name="gallery">Galeri</string>
+    <string name="upload">Unggah</string>
+    <string name="enter_description">Masukkan deskripsi..</string>
+    <string name="empty_image_warning">Silakan masukkan berkas gambar terlebih dahulu.</string>
+    <string name="image_upload">Unggah Gambah</string>
+    <string name="story_photo">Poto Cerita</string>
+    <string name="illustration">Ilustrasi</string>
+    <string name="share_your_stories_logo">Logo Share your Stories</string>
+    <string name="setting">pengaturan</string>
+    <string name="password_error_message">Password tidak boleh kurang dari 8 karakter</string>
+    <string name="email_error_message">Email belum valid</string>
+    <string name="media_message">Belum ada foto yang dipilih</string>
+    <string name="register_success">Register telah berhasil</string>
+    <string name="title_activity_maps">Peta Cerita</string>
+    <string name="maps">maps</string>
+    <string name="retry">Coba lagi</string>
+    <string name="stories">Cerita</string>
+    <string name="detail_story">Detail Cerita</string>
+</resources>
